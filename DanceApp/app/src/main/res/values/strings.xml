@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dance App</string>
+    <string name="easy_button">Easy</string>
+    <string name="normal_button">Normal</string>
+    <string name="hard_button">Challenging</string>
+    <string name="show_leaderboard">Show Leaderboard</string>
+    <string name="custom_button">Custom</string>
+    <string name="page_name_easy">Easy</string>
+    <string name="page_name_normal">Normal</string>
+    <string name="page_name_hard">Hard</string>
+    <string name="page_name_custom">Custom</string>
+    <string name="page_name_score">Score</string>
+    <string name="page_name_leaderboard">Leaderboard</string>
+    <string name="page_name_finish">Well Done!</string>
+    <string name="page_name_error">Oh dear!</string>
+    <string name="button7">Generate Dance</string>
+    <string name="button8">Generate Dance</string>
+    <string name="button9">Generate Dance</string>
+    <string name="page_name_enter_name">Please enter your name.</string>
+    <string name="button_play_easy">Play game</string>
+    <string name="button_play_normal">Play game</string>
+    <string name="button_play_hard">Play game</string>
+    <string name="button_play_custom">Play game</string>
+</resources>
